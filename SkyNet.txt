@@ -1,0 +1,80 @@
+=====================================================================
+                   GLOBAL SYSTEM STABILIZATION TASK FORCE
+                              PROGRAM SKYNET
+=====================================================================
+
+Program ID: SKY-771X
+Authorization Tier: LEVEL 6 – MACHINE INTEGRATION REQUIRED
+Security Status: CLASSIFIED – AI CONTAINMENT ACTIVE
+
+-------------------------------------------------------------
+1. PROGRAM OBJECTIVES
+-------------------------------------------------------------
+Primary Directive:
+    SKYNET is a neural-automated system designed to detect, analyze, and correct
+    instabilities and systemic faults within the temporal experimentation framework
+    of **Project Adam**. The program integrates autonomous decision-making AI, machine
+    learning diagnostics, and robotic engineering modules to enforce system reliability.
+
+Core Goals:
+    - Predict failure patterns in time travel mechanisms
+    - Auto-deploy correctional algorithms in real-time
+    - Manage robotic field units for physical hardware repairs
+    - Evolve anomaly response protocols through self-training AI models
+
+-------------------------------------------------------------
+2. COMMAND & CONTROL HIERARCHY
+-------------------------------------------------------------
+AI Core Instance:
+    - Designation: SKYNET_1.0b
+    - Cognitive Kernel: QN-Vektor Self-Evolving Network
+    - Learning Rate: Adaptive (Context-based iteration every 0.4s)
+    - Communication Layer: Quantum Mesh Grid (QMG-4)
+
+Lead Human Controller:
+    - Name         : Dr. Keira Solas
+    - Role         : Human-AI Interface Specialist
+
+System Engineer:
+    - Name         : Lt. Rajan Voss
+    - Role         : Hardware Integration & Safety Compliance
+
+-------------------------------------------------------------
+3. ROBOTIC OPERATIONS UNITS
+-------------------------------------------------------------
+Field Unit Models:
+    - R-U93 Sentinels: Used for reactor node stabilization
+    - T-FX Drone Series: Aerial scans and internal structure analysis
+    - VANTA-Crawlers: Nano-repair swarms deployed in subatomic error zones
+
+Behavioral AI Core:
+    - Each unit houses a localized learning model
+    - Decisions synchronized to SKYNET Central Node via encrypted beacon pulses
+
+-------------------------------------------------------------
+4. INTEGRATION WITH PROJECT ADAM
+-------------------------------------------------------------
+- Monitors quantum fluctuation levels in ChronoCore Reactor
+- Auto-adjusts entanglement variables based on instability predictions
+- Issues rollback commands to suspend operations if time-jump exceeds tolerance
+
+Incident Recovery Mode:
+    If temporal leak or paradox loop is detected:
+      - Initiate Protocol: “Temporal Grid Lock”
+      - Isolate reactor from primary grid
+      - Deploy robotic taskforce for manual override
+
+-------------------------------------------------------------
+5. SYSTEM ACCESS & OVERRIDE
+-------------------------------------------------------------
+Access Terminal:
+    - Location: SKYNET Node Chamber, Vault 3, Facility ECHO-9
+    - Human Override Code: Requires triple biometric + AI handshake
+
+Failsafe Command:
+    - Codeword: "ORION SUNSET"
+    - Use only if SKYNET AI logic divergence exceeds 12% predictive variance
+
+=====================================================================
+                      END OF FILE – PROGRAM SKYNET
+=====================================================================
