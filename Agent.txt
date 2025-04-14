@@ -66,6 +66,14 @@ Clearance     : T-Ω (Overrider Class)
 Specialty     : System lockdowns, AI termination, Project Salvation activation
 Current Status: Dormant – only deployed in Level-ZERO scenarios
 
+[AGENT 007]
+Codename      : Egal
+Real Name     : Unknown
+Clearance     : T-7
+Specialty     : Chronal disruption trace analysis, anti-loop detection
+Current Status: Blacklisted – last seen within ±72s anomaly window
+
+
 -------------------------------------------------------------
 3. CONTACT NODES & SHADOW PROTOCOLS
 -------------------------------------------------------------
