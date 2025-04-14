@@ -32,7 +32,7 @@ Lead AI Developer:
     - Unit         : Quantum Logic & Threat Mitigation Lab
 
 Systems Engineer:
-    - Name         : Lucia Freeman
+    - Name         : Heather Lee
     - Role         : Grid Synchronization & Substation Safeguards
 
 -------------------------------------------------------------
