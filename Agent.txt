@@ -68,11 +68,25 @@ Current Status: Dormant – only deployed in Level-ZERO scenarios
 
 [AGENT 007]
 Codename      : Egal
-Real Name     : Unknown
+Real Name     : James Bond
 Clearance     : T-7
 Specialty     : Chronal disruption trace analysis, anti-loop detection
 Current Status: Blacklisted – last seen within ±72s anomaly window
 
+[AGENT 008]
+Codename      : El SOl
+Real Name     : Rakibul Islam
+Clearance     : R-9
+Specialty     : Chronal disruption trace analysis, anti-loop detection
+Current Status: Blacklisted – last seen within ±72s anomaly window
+
+
+[AGENT 009]
+Codename      : Falcon-IX
+Real Name     : Unknown
+Clearance     : T-8
+Specialty     : Chronal disruption trace analysis, anti-loop detection
+Current Status: Blacklisted – last seen within ±72s anomaly window
 
 -------------------------------------------------------------
 3. CONTACT NODES & SHADOW PROTOCOLS
