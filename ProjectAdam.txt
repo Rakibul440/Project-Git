@@ -1,0 +1,82 @@
+=====================================================================
+                 DEPARTMENT OF ADVANCED PHYSICS & TEMPORAL STUDIES
+                           TOP SECRET INTEL DOSSIER
+                             "PROJECT ADAM"
+=====================================================================
+
+Project Code: ADX-314-Ω
+Classification: ULTRA-RESTRICTED
+Access Level: T5+ ONLY
+Confidentiality Protocol: Omega Lock Enabled
+
+-------------------------------------------------------------
+1. PROJECT OBJECTIVE
+-------------------------------------------------------------
+Primary Goal:
+    To design, prototype, and operationalize a time travel device using
+    quantum entanglement, gravitational lensing, and tachyon pulse projection
+    as a basis for controlled temporal displacement.
+
+Research Streams:
+    - Temporal Mechanics & Paradox Prevention
+    - Quantum-State Stabilization during Transit
+    - Chrono-Anchor Locking Systems
+    - Biometric Recalibration Post-Jump
+
+-------------------------------------------------------------
+2. PROJECT LEADERSHIP
+-------------------------------------------------------------
+Chief Scientific Officer:
+    - Name         : Dr. Malcolm Riven
+    - Background   : Theoretical Physics, CERN
+    - Role         : Principal Investigator and Lead Architect
+
+Temporal Stability Engineer:
+    - Name         : Prof. Liana Morales
+    - Role         : Manages spatiotemporal simulations and reactor coherence
+
+Field Testing Commander:
+    - Name         : Cmdr. Elias Trent (Ret.)
+    - Role         : Oversees jump capsule logistics and live monitoring
+
+-------------------------------------------------------------
+3. FACILITIES & TEST SITES
+-------------------------------------------------------------
+Main Research Facility:
+    - Site Name: ECHO-9
+    - Location: [REDACTED - Underground Compound, Arctic Circle]
+    - Equipment: ChronoCore Reactor v2.1, Dual-Quantum Loop Simulators
+
+Test Site Alpha (TS-A):
+    - Purpose: Short-range displacement within ±6 seconds window
+    - Incident Note: Test #14 resulted in subject memory echo loop
+
+Test Site Delta (TS-D):
+    - Purpose: Capsule Re-entry Precision Verification
+
+-------------------------------------------------------------
+4. OPERATIONAL PROTOCOLS
+-------------------------------------------------------------
+- Only synthetic test subjects permitted beyond ±60s temporal threshold
+- Real-time chronal displacement logs must be duplicated across
+  non-intersecting timelines
+- Energy spikes exceeding 2.4 Petawatts will trigger auto-abort system
+
+Unauthorized entry or tampering with reactor nodes will result in full
+lockdown and possible containment breach.
+
+-------------------------------------------------------------
+5. CONTACT & ACCESS LOG
+-------------------------------------------------------------
+Director Liaison:
+    - Codename: "Red Key"
+    - Communication Method: Encrypted Neural Uplink
+    - Access Port: Terminal 08-B (requires biometric + passphrase sequence)
+
+Data Vault Access:
+    - Passphrase Rotation: Every 12 hours
+    - Storage Format: Quantum Partitioned Crystal Drives (QPX-55)
+
+=====================================================================
+                     END OF CLASSIFIED LOG – PROJECT ADAM
+=====================================================================
