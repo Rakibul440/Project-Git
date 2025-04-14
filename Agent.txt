@@ -1,0 +1,92 @@
+=====================================================================
+                   INTELLIGENCE OPERATIONS DIVISION (IOD)
+                           GLOBAL AGENT REGISTRY
+                     [FILE: ACTIVE AGENTS & FIELD UNITS]
+=====================================================================
+
+Document Code: AGNT-X1127
+Access Protocol: LEVEL 5 – TOP CLEARANCE REQUIRED
+Encryption Layer: Vanta-Aegis Quantum Seal
+
+-------------------------------------------------------------
+1. OPERATIVE SUMMARY
+-------------------------------------------------------------
+This registry lists currently active agents assigned to classified projects under the
+Temporal Science Division, AI Defense Operations, and Emergency Containment Protocols.
+Agents are compartmentalized and aware only of their specific directives.
+
+Projects Covered:
+    - Project Adam (Temporal Research & Experimentation)
+    - SkyNet (AI Systems & Robotics Intelligence)
+    - Salvation (Emergency Containment Operations)
+
+-------------------------------------------------------------
+2. AGENT PROFILES
+-------------------------------------------------------------
+
+[AGENT 001]
+Codename      : PHANTOM-01  
+Real Name     : Lt. Marcus Drey
+Clearance     : T-4
+Specialty     : Tactical infiltration, time-node sabotage
+Current Status: Field Agent – Project Adam, Test Zone Delta
+
+[AGENT 002]
+Codename      : SPECTRE-9  
+Real Name     : Dr. Elira Chen
+Clearance     : T-5
+Specialty     : AI integration, neural interface protocols
+Current Status: Embedded – SkyNet Core Engineering Team
+
+[AGENT 003]
+Codename      : FALCON-V
+Real Name     : Cmdr. Avery Locke
+Clearance     : T-6 (Dual Project Authority)
+Specialty     : Cross-division operations, fail-safe command
+Current Status: On-call – Salvation Watch Node (Standby Protocol)
+
+[AGENT 004]
+Codename      : TRACE-ECHO
+Real Name     : Unknown
+Clearance     : T-3
+Specialty     : Chronal disruption trace analysis, anti-loop detection
+Current Status: Blacklisted – last seen within ±72s anomaly window
+
+[AGENT 005]
+Codename      : NOVA-13
+Real Name     : Dr. Kalen Rhodes
+Clearance     : T-5
+Specialty     : Multi-thread AI training, robotic swarm behavior
+Current Status: Operational Lead – SkyNet Drone Control Nexus
+
+[AGENT 006]
+Codename      : SILO-0
+Real Name     : [REDACTED]
+Clearance     : T-Ω (Overrider Class)
+Specialty     : System lockdowns, AI termination, Project Salvation activation
+Current Status: Dormant – only deployed in Level-ZERO scenarios
+
+-------------------------------------------------------------
+3. CONTACT NODES & SHADOW PROTOCOLS
+-------------------------------------------------------------
+- All agent communications routed through darkline tunnels in the Q-Spectrum Layer
+- ID signals randomized via bio-encrypted rotational beacons every 3 minutes
+- Shadow Contacts:
+    * ALPHA-DOME (Geneva)  – Primary uplink vault
+    * VORTEX-4 (Off-coast Relay Drone)
+    * SILENT-KNIGHT (Mobile Carrier Node)
+
+-------------------------------------------------------------
+4. BREACH PROTOCOL
+-------------------------------------------------------------
+If an agent is suspected of defection, interference, or AI corruption:
+    - Initiate trace flag via Q-AI AgentNet Core
+    - Deploy WRAITH-class Reclaimer Drone to last known coordinates
+    - Authorization for full neural purge if agent poses system-level threat
+
+All field units are tracked via chronal signatures embedded during recruitment.
+Tampering with signature patterns is considered high treason.
+
+=====================================================================
+              END OF DOSSIER – ACTIVE AGENT REGISTRY (AGNT-X1127)
+=====================================================================
