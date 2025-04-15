@@ -1,0 +1,92 @@
+=====================================================================
+                NATIONAL SCIENCE & SECURITY OVERSEER COMMAND
+                         INITIATIVE: REVITALIZATION
+=====================================================================
+
+Program ID: RVT-X01
+Directive Classification: BLACK VAULT PROTOCOL – LEVEL OMEGA
+Activation Mode: MANUAL OVERRIDE ONLY
+Purpose: Universal reset of all active programs under Temporal & AI Operations
+
+-------------------------------------------------------------
+1. PROGRAM OVERVIEW
+-------------------------------------------------------------
+Primary Objective:
+    Initiate a full-system reboot of classified programs, including but not limited to:
+        • Project Adam (Temporal Mechanics)
+        • SkyNet (Autonomous AI Systems)
+        • Salvation (Containment and Emergency Lockdown Systems)
+        • Internal Archives, Agent Registries, and Facility Logs
+
+Scope of Reset:
+    - Erasure of historical logs
+    - AI memory reformat
+    - Core hardware recalibration
+    - Timeline registry wipe
+    - Agent identity obfuscation
+
+Post-Reset State:
+    All systems return to Day-Zero configuration. Timeline markers are cleared.
+    Program Reinitialization Keys (PRK) required to reactivate each subproject.
+
+-------------------------------------------------------------
+2. RESET TRIGGERS & CONDITIONS
+-------------------------------------------------------------
+
+Permitted Activation Scenarios:
+    - Detected AI divergence rate > 15%
+    - Temporal collapse probability > 9%
+    - Multi-project cross-contamination (shared corruption layer)
+    - Classified asset breach or insider anomaly replication
+
+Manual Activation Credentials:
+    • Operator: SYSTEM ZERO
+    • Location: Vault ZENITH (Below Level-13, Facility: Obsidian Vault)
+    • Override Code: RKT-RVT-ΔΣΩ_918-X
+
+Failsafe Timer:
+    120-second countdown post-initiation
+    Can only be aborted by Master Codeholder Council (Minimum 4 Signatures)
+
+-------------------------------------------------------------
+3. SYSTEM RESET SEQUENCE
+-------------------------------------------------------------
+
+PHASE I: Containment
+    - Suspend all SkyNet AI routines
+    - Lockdown Project Adam’s core chambers
+    - Activate Salvation’s failsafe drones for internal monitoring
+
+PHASE II: Erasure
+    - Execute neural wipe on SkyNet & Sub-AI clusters
+    - Format Project Adam’s quantum memory cores
+    - Purge agent activity trails and ID signatures
+
+PHASE III: Reconstruction
+    - Re-seed systems with Core Kernel Version 0.0.1 (Foundational AI Layer)
+    - Boot Timeline Anchor Nodes in zero state
+    - Issue "Green Spark" signal to initiate new program generation cycle
+
+-------------------------------------------------------------
+4. SECURITY & ETHICAL WARNINGS
+-------------------------------------------------------------
+
+WARNING: All history will be lost. Temporal echoes may persist.
+WARNING: Agents caught mid-jump will not return.
+WARNING: AI sentience fragments may survive unless scrubbed twice.
+
+Ethical Status: Approved by Oversight Council (9/12 Vote)
+Note: Memory backups stored in Q-Depth Reserve Core – access prohibited
+
+-------------------------------------------------------------
+5. FINAL DIRECTIVE
+-------------------------------------------------------------
+
+If Revitalization is triggered:
+    - No human is to intervene mid-process
+    - All command hierarchy dissolves
+    - New Overseer will be appointed by Core Reconstructor AI (Designation: “NEON SEED”)
+
+=====================================================================
+               END OF FILE – PROGRAM REVITALIZATION DIRECTIVE
+=====================================================================
